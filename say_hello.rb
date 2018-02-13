@@ -1,6 +1,7 @@
 # Build your say_hello method here
 
-def say_hello(phrase = "Gabriela", x)
- end
+puts "Please enter your name."
 
-puts (say_hello)
+name = gets
+
+puts "Hello, #{name}!"
