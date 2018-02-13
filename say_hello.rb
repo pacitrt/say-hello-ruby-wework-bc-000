@@ -3,7 +3,8 @@
 puts "Please enter your name."
 name = gets
 
-def say_hello
+def say_hello(name)
+  puts name
 end
 
 puts "Hello, #{name}!"
