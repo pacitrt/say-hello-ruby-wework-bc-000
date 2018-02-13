@@ -4,4 +4,6 @@ puts "Please enter your name."
 
 name = gets
 
-puts "Hello, #{name}!"
+def say_hello(phrase = "Hello")
+
+puts pharase + #{name}"!"
