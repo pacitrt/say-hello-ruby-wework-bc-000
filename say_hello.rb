@@ -6,4 +6,3 @@ def say_hello(name = "Ruby Programmer")
   puts "Hello #{name}!"
 end
 
-puts "Hi, #{name}! I'm Ruby!"
