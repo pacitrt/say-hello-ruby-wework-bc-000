@@ -3,6 +3,3 @@
 def say_hello(name = "Rio")
   puts "Hello #{name}!"
 end
-
-say_hello("dave")
-say_hello()
